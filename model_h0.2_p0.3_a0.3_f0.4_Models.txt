@@ -1,0 +1,44 @@
+Selected 3 EDM quantiles from a population of 1000 tables.
+
+
+
+
+Attribute names:	P0
+Minor allele frequencies:	0.20000000298023224
+K: 0.30000001192092896
+Heritability: 0.20000000298023227
+Ease-of-detection metric: 0.10503398430379585
+Odds ratio: 11.556239162753506
+Table has passed the row-sum test.
+
+Table:
+
+0.3777350243346064,  0.057625492833761734,  0.9952359762164884
+
+
+
+Attribute names:	P0
+Minor allele frequencies:	0.20000000298023224
+K: 0.300000011920929
+Heritability: 0.2000000029802322
+Ease-of-detection metric: 0.15497058803352598
+Odds ratio: 6.748386863414169
+Table has passed the row-sum test.
+
+Table:
+
+0.15626617364769968,  0.512741224399787,  0.8978116704906034
+
+
+
+Attribute names:	P0
+Minor allele frequencies:	0.20000000298023224
+K: 0.3000000119209289
+Heritability: 0.2000000029802322
+Ease-of-detection metric: 0.2043479535180373
+Odds ratio: 24.941019446362954
+Table has passed the row-sum test.
+
+Table:
+
+0.45082570860398535,  0.008603510061704742,  0.21796092634347608
