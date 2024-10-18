@@ -1,0 +1,13 @@
+#!/bin/bash
+export seed="123"
+export nopredictiveattributes="10"
+export nononpredictivetotalattributes="100"
+export MAFforinteractingassociatesattributes="0.2"
+export prevalence="0.3"
+export heritability="0.6"
+export proportion="0.3"
+export quantile_counts="2"
+export population_counts="10"
+export trycount="90000"
+
+
