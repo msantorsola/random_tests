@@ -1,0 +1,10 @@
+"--randomSeed": "123"
+"--attributeAlleleFrequency": "0.3"
+"--prevalence": "0.6"
+"--heritability": "0.3"
+"--proportion": "0.3"
+"--useOddsRatio": ""
+"--trycount": "90000"
+"--quantile_counts": "2"
+"--population_counts": "10"
+
