@@ -1,0 +1,3 @@
+simulation_model,seed,chromosome,population,output_dir,output_prefix,no_predictive_attributes,no_non_predictive_total_attributes,MAF_range_for_non_predictive_attributes,MAF_for_interacting_associates_attributes,no_cases,no_controls,no_total_individuals,prevalence,polygenicity,pleiotropy,heritability,no_replicates,batchsize,size,alpha,model,useOddsRatio,proportion,quantile_counts,population_counts,trycount,dataset,AF_min,AF_max
+test,123,21,CEU,,,10,100,0.02 - 0.04,0.2,500,500,1000,0.3,,,0.6,2,,,,yes,0.3,,,90000,,,,
+
