@@ -1,0 +1,10 @@
+--randomSeed,1
+--attributeAlleleFrequency,0.2
+--prevalence,0.2
+--heritability,0.6
+--useOddsRatio,
+--quantile_counts,1
+--population_counts,10
+--trycount,90000
+--proportion,0.2
+
